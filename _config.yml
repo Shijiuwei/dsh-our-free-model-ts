@@ -1,0 +1,6 @@
+title: "dsh-our-free-model-ts"
+description: "Official architecture documentation and production specifications for dsh-our-free-model-ts"
+lang: en-US
+exclude:
+  - node_modules
+  - .git

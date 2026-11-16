@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>dsh-our-free-model-ts</title>
+  <subtitle>Official architecture documentation and production specifications for dsh-our-free-model-ts</subtitle>
+  <link href="https://Shijiuwei.github.io/dsh-our-free-model-ts/feed.xml" rel="self"/>
+  <id>https://Shijiuwei.github.io/dsh-our-free-model-ts/</id>
+  <updated>2026-11-16T20:18:43.408124300+00:00</updated>
+  <entry>
+    <title>dsh-our-free-model-ts Architecture Overview</title>
+    <link href="https://Shijiuwei.github.io/dsh-our-free-model-ts/docs/architecture.html"/>
+    <id>https://Shijiuwei.github.io/dsh-our-free-model-ts/docs/architecture.html</id>
+    <updated>2026-11-16T20:18:43.408124300+00:00</updated>
+    <summary>Official architecture documentation and production specifications for dsh-our-free-model-ts</summary>
+  </entry>
+  <entry>
+    <title>Production Deployment Notes</title>
+    <link href="https://Shijiuwei.github.io/dsh-our-free-model-ts/docs/deployment-notes.html"/>
+    <id>https://Shijiuwei.github.io/dsh-our-free-model-ts/docs/deployment-notes.html</id>
+    <updated>2026-11-16T20:18:43.408124300+00:00</updated>
+    <summary>Practical integration guide for configuring dsh-our-free-model-ts across local and distributed environments.</summary>
+  </entry>
+  <entry>
+    <title>dsh-our-free-model-ts Technical Specifications</title>
+    <link href="https://Shijiuwei.github.io/dsh-our-free-model-ts/docs/specifications.html"/>
+    <id>https://Shijiuwei.github.io/dsh-our-free-model-ts/docs/specifications.html</id>
+    <updated>2026-11-16T20:18:43.408124300+00:00</updated>
+    <summary>Operational contracts, configuration defaults, and interface guarantees for dsh-our-free-model-ts.</summary>
+  </entry>
+</feed>
